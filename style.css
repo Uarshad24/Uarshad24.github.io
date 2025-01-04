@@ -329,4 +329,7 @@ nav .fa-solid {
     .details p a {
         webkit-touch-callout: none;
     }
+    .social-icons a {
+        color: dark purple;
+    }
 }
