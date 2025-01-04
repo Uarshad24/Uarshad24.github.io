@@ -320,6 +320,7 @@ nav .fa-solid {
     }
     .social-icons {
         text-decoration: none;
+        color: transparent
     }
 
 }
