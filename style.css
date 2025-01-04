@@ -326,8 +326,7 @@ nav .fa-solid {
     }
 
     .details p a {
-        webkit-touch-callout: none;
-        -webkit-user-select: none;
+        -webkit-touch-callout: none;
     }
 
     .social-icons {
