@@ -326,11 +326,6 @@ nav .fa-solid {
         margin-left: 0;
     }
 
-    .details p a {
-        -webkit-touch-callout: none;
-        -webkit-user-select: none;
-    }
-
     .social-icons {
         text-decoration: none;
     }
