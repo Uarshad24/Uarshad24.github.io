@@ -318,9 +318,9 @@ nav .fa-solid {
         text-align: center;
         margin-left: 0;
     }
-    .social-icons {
+    .social-icons a {
         text-decoration: none;
-        color: transparent
+        color: transparent;
     }
 
 }
