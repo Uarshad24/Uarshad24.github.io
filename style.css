@@ -229,6 +229,7 @@ nav ul li a:hover::after {
 
 .details p a {
     text-decoration: none;
+    color: inherit;
 }
 
 .details i {
