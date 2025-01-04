@@ -331,5 +331,6 @@ nav .fa-solid {
     }
     .social-icons a {
         color: dark purple;
+        text-decoration: none;
     }
 }
