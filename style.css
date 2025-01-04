@@ -327,9 +327,7 @@ nav .fa-solid {
         color: #6a0dad;
         margin-left: 0;
     }
-    .details p a {
-        webkit-touch-callout: none;
-    }
+    
     .social-icons a {
         color: #6a0dad;
         text-decoration: none;
