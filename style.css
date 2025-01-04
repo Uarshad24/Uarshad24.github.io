@@ -222,8 +222,14 @@ nav ul li a:hover::after {
 }
 
 .details p {
+    text-decoration: none;
     margin-top: 10px;
     font-size: 16px;
+}
+
+.details p a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .details i {
@@ -231,6 +237,8 @@ nav ul li a:hover::after {
 }
 
 .social-icons {
+    text-decoration: none;
+    color: inherit;
     margin-top: 30px;
     text-align: center;
 }
@@ -317,5 +325,8 @@ nav .fa-solid {
     .details {
         text-align: center;
         margin-left: 0;
+    }
+    .details p a {
+        webkit-touch-callout: none;
     }
 }
