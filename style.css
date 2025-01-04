@@ -226,6 +226,10 @@ nav ul li a:hover::after {
     font-size: 16px;
 }
 
+.details p a {
+    text-decoration: none;
+}
+
 .details i {
     margin-right: 15px;
 }
