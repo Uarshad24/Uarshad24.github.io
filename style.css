@@ -165,7 +165,7 @@ nav ul li a:hover::after {
 /* Portfolio Section */
 
 #portfolio {
-    padding: 50px 0;
+    padding: 0px 0;
 }
 
 .sub-title.centered {
@@ -215,7 +215,6 @@ nav ul li a:hover::after {
     margin-top: 10px;
     line-height: 1.5;
 }
-
 
 .text{
     text-align: center;
