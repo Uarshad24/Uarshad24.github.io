@@ -162,6 +162,11 @@ nav ul li a:hover::after {
     display: block;
 }
 
+.tab-contents a {
+    text-decoration: none;
+    color: #ababab;
+}
+
 /* Portfolio Section */
 
 #portfolio {
