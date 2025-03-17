@@ -5,7 +5,7 @@
 
 This project is a personal portfolio designed to showcase my skills, experience, and projects in the field of Data Science and Machine Learning. It provides a user-friendly interface with sections like "About Me," "Skills," "Certifications," "Education," "Portfolio," and "Contact," each carefully crafted to present my achievements and professional journey. The website is built using HTML, CSS, and JavaScript to create an interactive and visually appealing experience for users.
 
-This portfolio serves as a medium to highlight my abilities as a Data Scientist and Machine Learning Engineer, featuring projects I've worked on, such as image classification, time series analysis, and future explorations into recommendation systems. By using a clean, responsive design, the site adapts well to both desktop and mobile views.
+This portfolio serves as a medium to highlight my abilities as a Data Scientist and Machine Learning Engineer, featuring projects I've worked on, such as image classification, time series analysis, and recommendation systems. By using a clean, responsive design, the site adapts well to both desktop and mobile views.
 
 ### Project Structure
 
